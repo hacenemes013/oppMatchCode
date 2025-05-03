@@ -9,7 +9,6 @@ def run_example():
     """
     Run the example with either a provided PDF path or a default example.
     """
-    # Get PDF path from command line arguments if provided
     pdf_path = sys.argv[1] if len(sys.argv) > 1 else None
     
     if not pdf_path:
@@ -33,7 +32,6 @@ def run_example():
     # Process the PDF and get results
     result = main(pdf_path)
     
-    # Result is already printed in main(), but you could do additional processing here
     
     return result
 
