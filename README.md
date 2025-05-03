@@ -122,4 +122,4 @@ The application can be deployed to Render.com using the provided `render.yaml` c
 
 ## License
 
-MIT
+University of Batna 2
