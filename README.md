@@ -52,7 +52,6 @@ This application analyzes a candidate's resume (in PDF format), extracts structu
 3. Set up your environment variables by creating a `.env` file with your API keys:
    ```
    GOOGLE_API_KEY=your_google_api_key_here
-   OPENAI_API_KEY=your_openai_api_key_here_if_needed
    LAMA_API_KEY=your_lama_api_key_here_if_needed
    ```
 
