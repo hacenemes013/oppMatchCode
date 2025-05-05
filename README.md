@@ -6,7 +6,7 @@ A framework for processing resumes (PDF) and automatically matching them to suit
 
 This application analyzes a candidate's resume (in PDF format), extracts structured information about their skills, education, and experience, and then searches for real-world internship opportunities that match their profile. The system uses a team of AI agents working together through the CrewAI framework, with Gemini AI powering the underlying intelligence.
 
-## Features
+## Main Features
 
 - **PDF Resume Analysis**: Extract structured information from PDF resumes
 - **Web Scraping Integration**: Find real-world internship opportunities from online sources
